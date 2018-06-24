@@ -5,6 +5,14 @@
   .header{
     text-align: center;
   }
+
+  .fav{
+
+  }
+
+  .list{
+    display: none;
+  }
  
   
   #searchfield{
@@ -24,7 +32,7 @@
     flex-direction: column;
   }
 
-  .fav{
+  .button{
     float: left;
   }
   
